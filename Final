@@ -7,19 +7,7 @@
   <center> </head> </center>
   
       <body> <center>
-      body {
-      background-color: blue; 
-      
-     }
-     p {
-     
-     color: white;
-     }
-     h1 { 
-     
-     color: white;
-     
-     }
+ 
          <img src="myBanner (1).jpg">
          <h1> My final project! </h1>
          <p> Hello! This is considered the homepage. Here, you will find the links needed to access my other webpages. Feel free to click away! </p>
